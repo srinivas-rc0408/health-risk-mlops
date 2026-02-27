@@ -1,0 +1,6 @@
+Model,Task,Type,Accuracy (%)
+Logistic Regression,Heart Disease,Supervised,83.0
+Random Forest,Diabetes Risk,Supervised,100.0
+XGBoost,Stroke Risk,Supervised,100.0
+K-Means (Clustering),Patient Segmentation,Unsupervised,
+Neural Network,Overall Health,Supervised,93.5
